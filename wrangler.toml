@@ -1,0 +1,9 @@
+name = "message-box"
+main = "src/index.ts"
+compatibility_date = "2024-05-24"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "message-box-db"
+database_id = "1e1cbf7b-d35c-41f7-b27e-12e4cd7eb5f1"
